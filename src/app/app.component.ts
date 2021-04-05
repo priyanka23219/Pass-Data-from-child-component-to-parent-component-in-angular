@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'passData';
+  FirstName = 'priyanka';
+  lastName ='pawar';
+  EmpId = 101;
+  Experience= '1 year';
+  PrevCompany = 'Felix ITs';
+  PrevCTC='2LPA';
+  ExpectedCTC='3LPA';
+
 }
